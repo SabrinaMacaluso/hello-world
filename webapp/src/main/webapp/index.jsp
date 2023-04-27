@@ -32,6 +32,6 @@
   </div>
 
    <h1> Merci, Happy Learning </h1>
-
+   <i> Tell me and I forget, teach me and I may remember, involve me and I learn.</i>
   
 </form>
