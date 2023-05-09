@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1 style="background-color:powderblue;">New user Register for DevOps Learning here!</h1>
-    <p>Please fill in this form to create an account.</p>
+    <p>Please fill in this form to create an account :D .</p>
     <hr>
      
     <label for="Name"><b>Enter your Name here </b></label>
@@ -32,6 +32,6 @@
   </div>
 
    <h1> Merci, Happy Learning </h1>
-   <i> Tell me and I forget, teach me and I may remember, involve me and I learn.</i>
+   <i style="background-color:rgb(255, 13, 154);"> Tell me and I forget, teach me and I may remember, involve me and I learn.</i>
   
 </form>
