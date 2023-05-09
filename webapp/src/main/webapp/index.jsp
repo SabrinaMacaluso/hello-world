@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Merci, Happy Learning </h1>
+   <h1> Merci, Thank you,  Happy Learning </h1>
    <i style="background-color:rgb(255, 13, 154);"> Tell me and I forget, teach me and I may remember, involve me and I learn.</i>
   
 </form>
