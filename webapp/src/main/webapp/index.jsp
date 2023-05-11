@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1 style="background-color:powderblue;">New user Register for DevOps Learning here!</h1>
+    <h1 style="background-color:rgb(236, 58, 141);">New user Register for DevOps Learning here!</h1>
     <p>Please fill in this form to create an account :D .</p>
     <hr>
      
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1 style="background-color:rgb(222, 236, 25);"> Merci, Thank you,  Happy Learning </h1>
-   <i style="background-color:rgb(124, 226, 55);"> Tell me and I forget, teach me and I may remember, involve me and I learn.</i>
+   <h1 style="background-color:rgb(179, 199, 243);"> Merci, Thank you,  Happy Learning </h1>
+   <i style="background-color:rgb(226, 55, 135);"> Tell me and I forget, teach me and I may remember, involve me and I learn.</i>
   
 </form>
